@@ -44,3 +44,11 @@ func TestAVLNodeGetRightIsAVLNode(t *testing.T) {
 		t.Error()
 	}
 }
+
+// func TestAVLNodeAddElement(t *testing.T) {
+// 	var n IBNode = new(AVLNode)
+// 	n.Add(AVLElement{Key:10})
+// 	n.Add(AVLElement{Key:15})
+// 	n.Add(AVLElement{Key:20})
+// 	n.GetElement().
+// }
