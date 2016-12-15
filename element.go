@@ -4,4 +4,5 @@ type IElement interface {
 }
 
 type AVLElement struct {
+	Key int
 }
